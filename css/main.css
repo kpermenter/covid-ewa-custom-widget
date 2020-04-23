@@ -4,15 +4,20 @@
 /*     position: relative; */
     height:100%;
     width: 100%;
-    padding: 1em;
-    border: solid, 1px, gray
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+/*     border: solid, 1px, gray */
   }
 
   #coronaChart {
 /*     position: relative; */
     height:100%;
     width: 100%;
-    border: solid, 1px, gray
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+/*     border: solid, 1px, gray */
   }
 
   #viewDiv {
