@@ -2,12 +2,12 @@ html
 body {
     padding: 0;
     margin: 0;
-    height: 90%;
+    height: 100%;
     width: 100%;
   }
 
   .chart-container {
-    position: relative;
+/*     position: relative; */
     height:100%;
     width: 100%;
     padding: 1em;
@@ -15,7 +15,7 @@ body {
   }
 
   #coronaChart {
-    position: relative;
+/*     position: relative; */
     height:100%;
     width: 100%;
     border: solid, 1px, gray
